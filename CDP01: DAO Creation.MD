@@ -1,5 +1,5 @@
 
-# Proposal: DAO Creation
+# CDP01: DAO Creation
 
 Author(s): Nick010
 
