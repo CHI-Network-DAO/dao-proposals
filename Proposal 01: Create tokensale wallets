@@ -1,0 +1,36 @@
+
+# Proposal: Create tokensale wallets
+
+Author(s): Nick010
+
+Last updated: 26-06-2022
+
+## Abstract
+
+There are MultiSig wallets created for the funds that will be raised during the private sale.
+
+## Proposal
+
+A GNOSIS Safe is created on the Ethereum, BNB Chain and Polygon network as a MultiSign wallet for the funds that will be raised during the private sale.  
+  
+Polygon: 0x74328d2…..2842F  
+Ethereum: 0x15184……27744  
+BNB Chain: 0x8b65……2A9F8  
+  
+Signers (⅔ required)
+
+- 0xA727a7818fBBaFe6C168F743395bb3bcEf750F79  
+- 0xa4910a7F681b2e0fae71555a69491a0cDc048EA7  
+- 0x03aF14dF1B69A77c44793C6822b922a9B2c2A2f2
+
+Full wallet addresses will be exposed after the TGE (Token Generation Event).
+
+## Rationale
+
+Transactions need to be signed by 2 out of 3 wallets.  
+  
+The wallets required for signing are controlled by the founders of CHI Network DAO
+
+## References
+
+private sale proposal
