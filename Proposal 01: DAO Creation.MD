@@ -13,31 +13,31 @@ CHI Network DAO is created with Aragon Client and is set up for internal use onl
 
 Aragon client is used to create the CHI Network DAO.
 
-DAO Settings
+###DAO Settings
 
 Address: chinetwork.aragonid.eth  
 Network: Polygon Mainnet  
 Contract :0xC20d02B4c51B37C82c7D22068DCC6d03Fb548022
 
-Template: Company  
+###Template: Company  
   
-Tokens app  
+####Tokens app  
 - Contract: 0xcc275acc5cc384c78091d226c652be4a3c618757  
 - Token name: CHI Token  
 - Token symbol: CHI  
 - Token holders: 0xa4910a7F681b2e0fae71555a69491a0cDc048EA7  
 - Balances: 100.000.000.0007
 
-Voting app  
+####Voting app  
 - Contract: 0x96ad6a61c962abd4ddee27b9abcfcbe5519a1711  
 - Support: 66%  
 - Minimum approval: 33%  
 - Vote duration: 1 Day  
   
-Finance app  
+####Finance app  
 - Contract: 0xaad3adb1ef49600ae3e65fe114e1a380336a6911  
   
-Agent app  
+####Agent app  
 - Contract: 0xa7444707793b4d2a3dd0112993fd01ed64b3c9ca
 
 ## Rationale
