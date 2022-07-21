@@ -2,6 +2,7 @@
 # Proposal: DAO Creation
 
 Author(s): Nick010
+
 Last updated: 26-07-2022
 
 ## Abstract
